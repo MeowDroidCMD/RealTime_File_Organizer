@@ -50,7 +50,10 @@ To enable auto-start on boot:
 2. It will automatically register itself to **Windows Startup**.
 
 ---
-
+> INSTALLATION <
+1. download the file in this Google Drive Link :)
+ > https://drive.google.com/drive/folders/1UsXwMYL0yTHK3VEH7qfnJ9RiQmv8BC94?usp=sharing <
+---
 ## 🛠 Requirements
 
 This app runs out of the box on most systems. If you encounter errors, ensure the following:
